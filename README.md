@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#About Me
+Currently, I am a student at Northern Arizona University studying for my bachelors in Applied Computer Science and a minor in Cyber Security.
+
+#Interests
+- I like to video games and would like to create one someday
