@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#About Me
+About Me
 Currently, I am a student at Northern Arizona University studying for my bachelors in Applied Computer Science and a minor in Cyber Security.
 
-#Interests
+Interests
 - I like to video games and would like to create one someday
